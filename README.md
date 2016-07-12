@@ -1,4 +1,6 @@
 BOA DANÇA ~
+--------------------------------------------------------------
+---------------------------------------------------------------
 1 - Bug do Sample: Envie dinheiro por transfer para quaisquer character Sample do servidor, exemplo: Knight Sample, Sorcerer Sample, etc.. E então todos os characters novos que criarem conta vão vir com o dinheiro que você transferiu para o Sample.
 
 ---------------------------------------------------------------
